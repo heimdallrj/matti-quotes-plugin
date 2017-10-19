@@ -1,0 +1,20 @@
+{
+  "name": "matti-quotes-plugin",
+  "version": "1.0.0",
+  "verification": "test.js",
+  "uses": [],
+  "tasks": [
+    {
+      "entry": "index.js",
+      "commands": {
+        "high": [
+          "quote",
+          "quotes",
+          "inspire",
+          "motivational"
+        ],
+        "low": []
+      }
+    }
+  ]
+}

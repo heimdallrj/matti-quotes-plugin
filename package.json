@@ -1,0 +1,14 @@
+{
+  "name": "matti-quotes-plugin",
+  "version": "1.0.0",
+  "description": "Quote of the Day - matti the bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Ind",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
